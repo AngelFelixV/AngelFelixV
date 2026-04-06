@@ -91,8 +91,8 @@ Con sólida base en **matemáticas aplicadas**, **estadística** y **programaci�
 
 ## 🌐 Conecta Conmigo
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:angelfelix.fcfm@uas.edu.mx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelfelixvelarde)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](angelfelix.fcfm@uas.edu.mx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-felix-velarde-250480387/?skipRedirect=true)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AngelFelixV)
 
 ---
