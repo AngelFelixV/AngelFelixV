@@ -43,6 +43,7 @@ Con sólida base en **matemáticas aplicadas**, **estadística** y **programaci�
 - Microsoft Office
 - SQL (básico-intermedio)
 - Gestión de datos
+- Power BI
 
 ---
 
